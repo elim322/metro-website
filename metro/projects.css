@@ -1,0 +1,36 @@
+body {
+  font-family: 'Cabin', sans-serif;
+  background-color: grey;
+  color: white;
+}
+
+.navbar{
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.navbar-nav > li{  
+  font-family: 'Cabin', sans-serif;
+  color: white;
+  font-size: 18px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#logo {
+  position: relative;
+  width: 100px;
+  left: 10px;
+  background-size: contain;
+} 
+
+
+.cablephoto {
+    height: 100px;
+    width: 100px;
+}
+
+.productcontainer {
+    padding-left: 10%;
+    padding-right: 10%;
+}

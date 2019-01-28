@@ -1,0 +1,54 @@
+body {
+ font-family: 'Cabin', sans-serif;
+  background-color: #1e90ff;
+}
+
+.navbar{
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.navbar-nav > li{
+  font-family: 'Cabin', sans-serif;
+  color: white;
+  font-size: 18px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#logo {
+  position: relative;
+  width: 100px;
+  left: 10px;
+  background-size: contain;
+} 
+
+.about {
+    padding-left: 50%;
+    margin-right: 10%;
+    padding-top: 8%;
+    margin-bottom: 10%;
+}
+
+#aboutheader {
+    padding-bottom: 5%;
+    font-size: 55px;
+}
+
+
+.aboutinfo {
+    color: white;
+    font-family: 'Cabin', sans-serif;
+    font-size: 30px;
+}
+
+.buildingcontainer {
+    padding-left: 4%;
+    padding-right: 5%;
+    float: left;
+}
+
+#buildingicon {
+    height: 500px;
+    width: 600px;
+}
